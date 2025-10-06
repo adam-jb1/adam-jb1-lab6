@@ -42,6 +42,8 @@ public class DotChaser {
         //nB.data = tB;
         //nB.next = L;
         //L       = nB;
+        TypeC tC = new TypeC(30, 50, 3, 'g');
+        list.addThing(tB);
       }
 
       // Print out each thing.
